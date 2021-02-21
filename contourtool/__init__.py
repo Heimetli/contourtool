@@ -18,15 +18,13 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-from __future__ import print_function
-
 import sys
 import usb
 import argparse
-from . import astm, controlchars, meter, output
+from contourtool import astm, controlchars, meter, output
 
 
-__version__ = '0.1'
+__version__ = '0.11'
 
 
 def print_error(msg, kind="error"):

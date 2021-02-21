@@ -7,7 +7,7 @@ See the COPYING file for licence information.
 # Support "python -m contourtool"
 
 import sys
-from . import main
+from contourtool import main
 
 
 sys.exit(main())
