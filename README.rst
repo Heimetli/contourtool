@@ -4,7 +4,7 @@ Experimental tool to dump data from a Bayer Contour Next USB meter
 Introduction
 ------------
 
-This is a fork of [https://github.com/bnjones/contourtool](https://github.com/bnjones/contourtool).
+This is a fork of https://github.com/bnjones/contourtool.
 
 Read the full description there.
 
@@ -18,8 +18,8 @@ Important safety information
 Bayer. It might damage your meter or render it unreliable. Use this
 software at your own risk. You have been warned!**
 
-Ported to Python3
------------------
+Ported to Python 3
+------------------
 
 This version was tested with python 3.7 on a Debian linux, with a
 Contour Next connected via USB.
